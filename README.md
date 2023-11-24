@@ -22,3 +22,15 @@ A collection of links to resourses and people that will help you learn XR.
 ### Unreal
 - [Unreal Engine Blueprint Game Developer](https://www.udemy.com/course/unrealblueprint/)
 - [Unreal Engine. Learning Library](https://dev.epicgames.com/community/unreal-engine/learning)
+
+## YouTube
+### Design
+
+### Programming
+
+## People
+
+## Books
+### Design
+
+### Programming
