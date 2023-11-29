@@ -1,5 +1,5 @@
 # Learning XR
-A collection of links to resourses and people that will help you learn XR.
+A collection of links to resourses to help you learn XR.
 
 ## Guidelines
 - [Apple.](https://developer.apple.com/design/human-interface-guidelines/spatial-layout) Human Interface Guidelines for Spatial Computing
@@ -27,6 +27,7 @@ A collection of links to resourses and people that will help you learn XR.
 ### Design
 
 ### Programming
+[Code Monkey.](https://www.youtube.com/@CodeMonkeyUnity) Unity & GameDev.
 
 ## People
 
@@ -34,3 +35,5 @@ A collection of links to resourses and people that will help you learn XR.
 ### Design
 
 ### Programming
+
+## Articles
