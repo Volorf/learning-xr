@@ -32,16 +32,16 @@ A collection of links to resourses to help you learn XR.
 ### Design
 
 ### Programming
-[Code Monkey](https://www.youtube.com/@CodeMonkeyUnity) Unity & GameDev.
-[Freya Holmér](https://www.youtube.com/@Acegikmo) Unity & Math.
+- [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity) Unity & GameDev.
+- [Freya Holmér](https://www.youtube.com/@Acegikmo) Unity & Math.
 
 # People
 
 # Books
 ### Design
-[3D User Interfaces]()
+- [3D User Interfaces]()
 
 ### Programming
-[Data Structures and Algorithms]()
+- [Data Structures and Algorithms]()
 
 # Articles
