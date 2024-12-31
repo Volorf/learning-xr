@@ -7,6 +7,7 @@ A collection of links to resourses to help you learn XR.
 - [UltraLeap](https://docs.ultraleap.com/hand-tracking/) Designing for Hand Tracking
 - [Microsoft](https://learn.microsoft.com/en-us/windows/mixed-reality/design/design) Desinging and prototyping for Mixed Reality
 - [Magic Leap](https://developer-docs.magicleap.cloud/docs/category/best-practices/) Best Practices for designing Mixed Reality experience
+- [Snap](https://developers.snap.com/spectacles/home) Designing for AR glasses
 
 # Game Engines
 - [Unity 3D](https://unity.com/unity-hub)
